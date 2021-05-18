@@ -97,7 +97,8 @@ a {
   top: 0;
   left: 0;
   right: 0;
-  overflow: hidden; }
+  overflow: hidden;
+  z-index: 19; }
 
 .menu-mobi {
   display: flex;
